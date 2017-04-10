@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_3939569d816fa7c06a386e9827bcdd3a98d4bcd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\.android\build-cache\3b819125297f7b018a90c0e37ce54cc23bae5319\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95693ada4ce393393f4b397bd382dc7cf9718301\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\.android\build-cache\74673782f952d053702bab42e60c4313e371493f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11055263a22ebf595d2dbecb391459d54c933cf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\.android\build-cache\7be288497804d2b2bf72d80fc5ccdb8100c676a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60544eb9e7e25dd9a4361d3af92e76d54abd4f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\.android\build-cache\4be9ee5727af77b3a4c48b7cedad2757907a805a\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_828b3461df5d37314f383fae98eed968527b7f85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\.android\build-cache\4be9ee5727af77b3a4c48b7cedad2757907a805a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f041c03c19c23649945577759dcb3ffa6aef8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e770e5752641b5dd92f0b36f2f47d66bf57b7076">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b3d2d3c6c773b286a25b694b9eea6fee509de11c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\.android\build-cache\91d36940bcb96621b332b4a8cbf91fc198604f56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a74e03b612132e75dc76ae3d61211bc8d9c9124\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_35539fce9ddc529cd3228e8c8637050bdc2334f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\swlaforest\.android\build-cache\f64e8a4cfcf71cb0368384c98153ee19f36cde98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\swlaforest\AndroidStudioProjects\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9e44604e30d51212e7128d3168b070e39616a02\classes.dex" />
+    </item>
+
+</items>
