@@ -12,41 +12,67 @@ public class Word {
 
     private String mMiwokWord;
     private int mImg = NO_IMAGE_PROVIDED;
-
+    private int mAudio;
     private static final int NO_IMAGE_PROVIDED = -1;
 
 
-    public Word(String englishWord, String miwokWord){
+    public Word(String englishWord, String miwokWord) {
         mEnglishWord = englishWord;
         mMiwokWord = miwokWord;
 
     }
-    public Word(String englishWord, String miwokWord, int img){
+
+    public Word(String englishWord, String miwokWord, int audioID) {
+        mEnglishWord = englishWord;
+        mMiwokWord = miwokWord;
+        mAudio = audioID;
+
+    }
+
+    @Override
+    public String toString() {
+        return "Word{" +
+                "mEnglishWord='" + mEnglishWord + '\'' +
+                ", mMiwokWord='" + mMiwokWord + '\'' +
+                ", mImg=" + mImg +
+                ", mAudio=" + mAudio +
+                '}';
+    }
+
+    public Word(String englishWord, String miwokWord, int img, int audioID) {
         mEnglishWord = englishWord;
         mMiwokWord = miwokWord;
         mImg = img;
+        mAudio = audioID;
 
     }
+
     public boolean hasImage() {
         return mImg != NO_IMAGE_PROVIDED;
     }
 
 
-    public String getEnglishWord(){
+    public String getEnglishWord() {
         return mEnglishWord;
     }
 
-    public String getMiwokWord(){
+    public String getMiwokWord() {
         return mMiwokWord;
     }
 
-    public int getImg(){
+    public int getImg() {
         return mImg;
     }
-    public void setEnglishWord(String englishWord){
+
+    public int getAudio() {
+        return mAudio;
+    }
+
+    public void setEnglishWord(String englishWord) {
         mEnglishWord = englishWord;
     }
-    public void setMiwokWord(String miwokWord){
+
+    public void setMiwokWord(String miwokWord) {
         mMiwokWord = miwokWord;
     }
 }
